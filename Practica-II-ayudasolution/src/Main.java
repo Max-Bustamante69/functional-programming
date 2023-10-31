@@ -114,7 +114,7 @@ class Main {
             System.out.println(estudiantesporDepa
                     .stream()
                     .mapToDouble(Estudiante::getPromedio)
-                    .average().isPresent());
+                    .average().orElse(0.0));
         });
 
 
