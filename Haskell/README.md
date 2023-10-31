@@ -1,9 +1,6 @@
-Claro, aquí tienes un ejemplo de archivo `README.md` para tu código:
-
-```markdown
 # Funciones Haskell
 
-Este repositorio contiene ejemplos de funciones en Haskell que demuestran conceptos fundamentales de la programación funcional. Cada función ilustra un concepto específico y se describe a continuación:
+Este archivo contiene ejemplos de funciones en Haskell que demuestran conceptos fundamentales de la programación funcional. Cada función ilustra un concepto específico y se describe a continuación:
 
 ## Funciones de Primer Orden
 - `aplicarFuncion` es una función de primer orden que toma una función `f` y una lista `[a]` como argumentos. Aplica la función `f` a cada elemento de la lista y devuelve una nueva lista con los resultados.
@@ -53,8 +50,6 @@ Para ejecutar el código Haskell en este repositorio, necesitas un entorno de de
 Siéntete libre de explorar y modificar el código para comprender mejor los conceptos de programación funcional en Haskell.
 
 ## Autor
-Este código fue escrito por [Tu Nombre].
+Este código fue escrito por Maximiliano Bustamante y Valeria Hornung .
 
 ```
-
-Asegúrate de reemplazar `[Tu Nombre]` con tu nombre o el nombre del autor real del código. Además, si deseas proporcionar más detalles sobre cómo configurar un entorno Haskell, puedes incluir esa información en la sección "Ejecución del Código".
