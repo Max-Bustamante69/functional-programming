@@ -9,7 +9,8 @@ Este repositorio contiene un programa Java diseñado para analizar datos de estu
     - [Clase Estudiante](#clase-estudiante)
 2. [Uso del Programa](#uso-del-programa)
 3. [Requisitos](#requisitos)
-4. [Contribuciones](#contribuciones)
+4. [Autores](#autores)
+5. [Documentación Adicional](#documentación-adicional)
 
 ## Estructura del Código
 
@@ -38,7 +39,8 @@ El programa se ejecuta desde la clase `Main`. Al ejecutarlo, realizará el anál
 - Este programa está escrito en Java. Debes tener Java instalado en tu sistema.
 - Asegúrate de que el archivo CSV "student-scores.csv" esté en el mismo directorio que el programa.
 
-## Contribuciones
-Este repositorio está abierto a contribuciones. Si deseas agregar mejoras, corregir errores o expandir las funcionalidades, eres bienvenido a colaborar.
+## Autores
+Este programa fue desarrollado por Maximiliano Bustamante y Valeria Hornung. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con los autores.
 
-¡Disfruta explorando y aprendiendo sobre programación funcional y análisis de datos de estudiantes con este programa de ejemplo!
+## Documentación Adicional
+Más información sobre el programa y su funcionamiento puede encontrarse en el siguiente [enlace a la documentación adicional](https://docs.google.com/document/d/13wikZ4vlMM3r0VkJ2WWf0ygu3ka7zPO05KYtP19vsOE/edit?usp=sharing).
