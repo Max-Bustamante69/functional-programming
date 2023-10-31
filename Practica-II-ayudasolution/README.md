@@ -1,4 +1,4 @@
-# Practica II Lenguajes de Programación
+[# Practica II Lenguajes de Programación
 ## PROGRAMACION FUNCIONAL
 ### Integrantes: 
 
@@ -19,4 +19,4 @@
 * Valor total de la nómina
 
 ## Metodología
-#### Para la realización del programa se hizo base en ejemplos proporcionados por el profesor de area, llevando estas estructuras para la definición de métodos y la construcción de otros
+#### Para la realización del programa se hizo base en ejemplos proporcionados por el profesor de area, llevando estas estructuras para la definición de métodos y la construcción de otros](https://github.com/Max-Bustamante69/functional-programming)https://github.com/Max-Bustamante69/functional-programming
